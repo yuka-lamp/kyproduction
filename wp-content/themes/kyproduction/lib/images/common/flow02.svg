@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <filter id="長方形_410" x="45.294" y="36.061" width="50.158" height="40.812" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_386" data-name="グループ 386" transform="translate(-584 -4236)">
+    <g id="楕円形_8" data-name="楕円形 8" transform="translate(584 4236)" fill="#fff" stroke="#fff" stroke-width="1">
+      <circle cx="55" cy="55" r="55" stroke="none"/>
+      <circle cx="55" cy="55" r="54.5" fill="none"/>
+    </g>
+    <g id="グループ_162" data-name="グループ 162" transform="translate(609.631 4269.926) rotate(-14)">
+      <rect id="長方形_408" data-name="長方形 408" width="33.45" height="57.22" rx="8.559" transform="translate(0 0)" fill="#ecf0f1"/>
+      <rect id="長方形_409" data-name="長方形 409" width="28.401" height="42.716" transform="translate(2.242 7.252)" fill="#454241"/>
+      <ellipse id="楕円形_75" data-name="楕円形 75" cx="0.717" cy="0.717" rx="0.717" ry="0.717" transform="translate(11.111 2.909)" fill="#1c1a1a"/>
+      <path id="パス_304" data-name="パス 304" d="M3.585,1.792A1.792,1.792,0,1,1,1.792,0,1.792,1.792,0,0,1,3.585,1.792Z" transform="translate(14.65 51.553)" fill="#bdc3c7"/>
+      <path id="パス_305" data-name="パス 305" d="M4.675.952H.475A.476.476,0,0,1,0,.476H0A.476.476,0,0,1,.475,0h4.2a.476.476,0,0,1,.476.476h0A.476.476,0,0,1,4.675.952Z" transform="translate(14.346 3.15)" fill="#1c1a1a"/>
+      <path id="パス_306" data-name="パス 306" d="M23.838,0H0L20.746,57.22h3.092a2.392,2.392,0,0,0,2.393-2.392V2.393A2.392,2.392,0,0,0,23.838,0Z" transform="translate(7.219 0)" fill="#fcfdff" opacity="0.15"/>
+    </g>
+    <g id="グループ_163" data-name="グループ 163" transform="translate(638.294 4278.061)">
+      <g transform="matrix(1, 0, 0, 1, -54.29, -42.06)" filter="url(#長方形_410)">
+        <rect id="長方形_410-2" data-name="長方形 410" width="32.158" height="22.812" transform="translate(54.29 42.06)" fill="#fff"/>
+      </g>
+      <path id="パス_307" data-name="パス 307" d="M822.181,477.351l16.079-11.406H806.1Z" transform="translate(-806.102 -465.945)" fill="#ecf0f1"/>
+    </g>
+  </g>
+</svg>
